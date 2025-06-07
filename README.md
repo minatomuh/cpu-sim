@@ -92,16 +92,16 @@ End Instruction Section
 ### Running the Simulator
 ```bash
 # Normal execution
-./simulator program.gtuc312
+./simulator program.asm
 
 # Debug mode 1 - Memory dump after each instruction
-./simulator program.gtuc312 -D 1
+./simulator program.asm -D 1
 
 # Debug mode 2 - Step-by-step execution
-./simulator program.gtuc312 -D 2
+./simulator program.asm -D 2
 
 # Debug mode 3 - Thread table monitoring
-./simulator program.gtuc312 -D 3
+./simulator program.asm -D 3
 ```
 
 ### Debug Modes
