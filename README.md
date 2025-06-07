@@ -2,6 +2,8 @@
 
 A simple CPU simulator with a custom instruction set and cooperative operating system implementation.
 
+For OS made for this simulator: **[minatomuh/minOS](https://github.com/minatomuh/minOS)**
+
 ## Overview
 
 This project simulates a hypothetical CPU with a minimal instruction set (C312).
