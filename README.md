@@ -1,6 +1,6 @@
 # GTU-C312 CPU Simulator
 
-A simple CPU simulator with a custom instruction set and cooperative operating system implementation.
+A simple CPU simulator with a custom instruction set and operating system implementation.
 
 The OS made for this simulator: **[minatomuh/minOS](https://github.com/minatomuh/minOS)**
 
