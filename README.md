@@ -2,7 +2,7 @@
 
 A simple CPU simulator with a custom instruction set and cooperative operating system implementation.
 
-For OS made for this simulator: **[minatomuh/minOS](https://github.com/minatomuh/minOS)**
+The OS made for this simulator: **[minatomuh/minOS](https://github.com/minatomuh/minOS)**
 
 ## Overview
 
