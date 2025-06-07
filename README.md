@@ -1,4 +1,3 @@
-# cpu-sim
 # GTU-C312 CPU Simulator
 
 A simple CPU simulator with a custom instruction set and cooperative operating system implementation.
